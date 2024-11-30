@@ -1,4 +1,7 @@
-# Timonel Bootloader v1.6 "Ext-Lib" - PlatformIO experimental project
+# Timonel Bootloader v1.7 "Ext-Lib" - PlatformIO project
+
+clone from https://github.com/casanovg/timonel
+currently working with attiny85
 
 This folder contains the same bootloader version and functionality as the "[Make version](/timonel-bootloader-el)", but it was implemented as a [PlatformIO](http://platformio.org) experimental project to handle building in a more structured way. Some advantages of using this platform are:
 

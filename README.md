@@ -1,6 +1,7 @@
 # Timonel Bootloader v1.7 "Ext-Lib" - PlatformIO project
 
 clone from https://github.com/casanovg/timonel
+improvements: allows adresses up to 0x7F, dont start app on jump to bootloader from app
 currently working with attiny85
 
 This folder contains the same bootloader version and functionality as the "[Make version](/timonel-bootloader-el)", but it was implemented as a [PlatformIO](http://platformio.org) experimental project to handle building in a more structured way. Some advantages of using this platform are:
